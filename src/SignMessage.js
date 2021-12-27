@@ -84,8 +84,7 @@ export default function SignMessage() {
                   ref={resultBox}
                   className="textarea w-full h-24 textarea-bordered focus:ring focus:outline-none"
                   placeholder="Generated signature"
-                  value={sig.signature}
-                />
+                  value={sig.signature} />
               </div>
             </div>
           );

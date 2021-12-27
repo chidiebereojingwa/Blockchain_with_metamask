@@ -8,7 +8,7 @@ export default function App() {
         <SignMessage />
       </div>
       <div className="w-full lg:w-1/2">
-        <VerifyMessage />
+        <VerifyMessage/>
       </div>
     </div>
   );
